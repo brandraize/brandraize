@@ -20,7 +20,7 @@ Helping businesses grow with custom web solutions, digital marketing, and SEO st
 - **Comprehensive Services**: Full-stack solutions from web to AI. 🌐🔧  
 - **Proven Success**: Boosting online presence and growth. 📈🚀  
 
-## 💡 Our Approach: 💡
+## 💡 Our Approach:
 
 At BrandRaize, we focus on understanding your unique business needs and delivering innovative, effective, and customized solutions that drive real results. Whether it's web design, digital marketing, or AI, we believe in delivering top-quality services that help you succeed in the digital world.
 
