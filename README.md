@@ -3,7 +3,7 @@
 
 Helping businesses grow with custom web solutions, digital marketing, and SEO strategies. We design, optimize, and elevate your brand's online presence. 🌐📈
 
-## Our Services:
+## 🌟 Our Services:
 
 - **Web App Design**: Custom websites and apps for your business. 💻✨  
 - **App Development**: Seamless, responsive apps for all platforms. 📱🚀  
@@ -13,7 +13,7 @@ Helping businesses grow with custom web solutions, digital marketing, and SEO st
 - **AI & Machine Learning**: AI solutions and machine learning models. 🤖🔧  
 - **Data Science**: Data-driven analytics for better decisions. 📊🔍
 
-## Why Choose Us:
+## 🏆 Why Choose Us:
 
 - **Tailored Solutions**: Customized services for your business. 🎯  
 - **Expertise in SEO & Marketing**: Proven experience and results. 📈💪  
